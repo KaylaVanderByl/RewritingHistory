@@ -1,0 +1,97 @@
+/*
+
+#history{
+ font-family: Bembo;
+font-weight: 400;
+font-style: normal;
+font-size: 125%;
+vertical-align: baseline;
+}
+#line {
+	border-width: 1px;
+	padding: 0;
+	margin-top:-2%;
+}
+p {
+    font-family: neue-haas-grotesk-text,sans-serif;
+    font-size: 95%;
+    line-height: 20%;
+		padding: 1.5EM;
+		vertical-align: baseline;
+		text-decoration: none;
+
+}
+
+#About a{
+	position: absolute;
+	margin-left: 54%;
+	line-height: 20%;
+	    font-size: 100%;
+			display: inline;
+			vertical-align: baseline;
+			margin-right: 2%;
+			text-decoration: none;
+
+
+}
+#Library a{
+	display: inline;
+	text-decoration: none;
+	margin-right: 10%;
+	position: absolute;
+	margin-left: 61%;
+	vertical-align: baseline;
+}
+
+#Subjects a{
+	display: inline;
+	text-decoration: none;
+	margin-right: 10%;
+	position: absolute;
+	margin-left: 68%;
+		vertical-align: baseline;
+}
+
+#Submit a{
+	display: inline;
+	text-decoration: none;
+position: absolute;
+margin-left: 76%;
+	vertical-align: baseline;
+}
+#About a:hover{
+	margin-top: .1%;
+	text-decoration: none;
+  font-size: 122%;
+	font-family: Bembo;
+	transition-timing-function: ease-in-out;
+
+}
+
+#Library a:hover{
+	margin-top: .1%;
+	display: inline;
+	text-decoration: none;
+  font-size: 122%;
+	font-family: Bembo;
+	transition-timing-function: ease-in-out;
+
+}
+
+#Subjects a:hover{
+		margin-top: .1%;
+	text-decoration: none;
+  font-size: 122%;
+	font-family: Bembo;
+	transition-timing-function: ease-in-out;
+
+}
+
+#Submit a:hover{
+		margin-top: .1%;
+	text-decoration: none;
+  font-size: 122%;
+	font-family: Bembo;
+	transition-timing-function: ease-in-out;
+
+} */
